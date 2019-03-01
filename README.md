@@ -1,2 +1,8 @@
-# gotraining
-Go Training
+# Go Training
+Go Training from KBTG
+
+
+```
+ls -lrt
+```
+
